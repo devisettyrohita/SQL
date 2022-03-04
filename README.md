@@ -7,6 +7,8 @@
  
   ![image](https://user-images.githubusercontent.com/100766371/156702944-d1b0b166-b08d-4a06-a6ef-c02d1f62f46e.png)
 
-3. what are the different types of crimes in Austin for the whole dataset?
+3. what are the total different types of crimes in Austin for the whole dataset?
+
+![image](https://user-images.githubusercontent.com/100766371/156712338-e2599483-81cc-4930-a6e6-56998092b6ec.png)
 
 
