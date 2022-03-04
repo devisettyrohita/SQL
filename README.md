@@ -13,3 +13,7 @@
 
 4. what are the total no. of deaths and new current confirmed cases dated between 2020-10-28 and  2021-01-06?
 ![image](https://user-images.githubusercontent.com/100766371/156743160-5ec94d9d-983c-4bcf-8aad-1449bd15ea07.png)
+
+5. What is the total male population, total female population for the given dataset?
+
+![image](https://user-images.githubusercontent.com/100766371/156744700-bd04fb5c-38de-470b-91cf-3c08dc0b4d32.png)
