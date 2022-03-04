@@ -11,4 +11,5 @@
 
 ![image](https://user-images.githubusercontent.com/100766371/156712338-e2599483-81cc-4930-a6e6-56998092b6ec.png)
 
-
+4. what are the total no. of deaths and new current confirmed cases dated between 2020-10-28 and  2021-01-06?
+![image](https://user-images.githubusercontent.com/100766371/156743160-5ec94d9d-983c-4bcf-8aad-1449bd15ea07.png)
