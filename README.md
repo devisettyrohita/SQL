@@ -17,3 +17,7 @@
 5. What is the total male population, total female population for the given dataset?
 
 ![image](https://user-images.githubusercontent.com/100766371/156744700-bd04fb5c-38de-470b-91cf-3c08dc0b4d32.png)
+
+6. What are the primary types where the arrest is true for the whole dataset?
+ 
+ ![image](https://user-images.githubusercontent.com/100766371/156765763-191f5ab0-faad-42d3-bbff-bd9a556d7337.png)
