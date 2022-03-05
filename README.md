@@ -26,4 +26,7 @@
 
  ![image](https://user-images.githubusercontent.com/100766371/156769270-a65f283f-4e4d-40fe-987d-14d7209c4028.png)
 
-8.
+8. What are the country names and genome id which used the same currency for payment of rent during 2017 January and February?
+
+![image](https://user-images.githubusercontent.com/100766371/156880943-5ea2fffa-d46d-46dc-96e8-a8f81298b0dc.png)
+
