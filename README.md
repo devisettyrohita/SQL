@@ -30,3 +30,6 @@
 
 ![image](https://user-images.githubusercontent.com/100766371/156880943-5ea2fffa-d46d-46dc-96e8-a8f81298b0dc.png)
 
+9.What are the amount spent for the advertisments declared for election campaign?
+
+![image](https://user-images.githubusercontent.com/100766371/156882510-fc64ef29-3d5a-445a-95eb-1c029e0f781f.png)
