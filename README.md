@@ -25,3 +25,5 @@
 7. What are the top 10 liquors in the Iowa for the dataset?
 
  ![image](https://user-images.githubusercontent.com/100766371/156769270-a65f283f-4e4d-40fe-987d-14d7209c4028.png)
+
+8.
