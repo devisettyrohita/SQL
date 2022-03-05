@@ -33,3 +33,7 @@
 9.What are the amount spent for the advertisments declared for election campaign?
 
 ![image](https://user-images.githubusercontent.com/100766371/156882510-fc64ef29-3d5a-445a-95eb-1c029e0f781f.png)
+
+10. What is the relationship between the county of residence and abnormal pregnancy?
+
+![image](https://user-images.githubusercontent.com/100766371/156894314-eea57295-2184-4782-a9f6-aafbe2120f77.png)
